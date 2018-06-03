@@ -5,12 +5,12 @@
 
 #### List of Contents
 
-+ How to install
-+ How to use
-+ Which key where setted can you see on pictures below
-+ How to remove
-+ ToDo
-+ History
++ [How to install](#how-to-install)
++ [How to use](#how-to-use)
++ [Which key where setted can you see on pictures below](#which-key-where-setted-can-you-see-on-pictures-below:)
++ [How to remove](#how-to-remove)
++ [ToDo](#ToDo)
++ [History](#History)
 
 ### How to install
 - - -
@@ -20,12 +20,22 @@
 
 ### Which key where setted can you see on pictures below:
 - - -
-![Normal Look](images/0_Normale_Ansicht.jpg) <center>1. Picture 1 - Normal Look</center>
-![With Shift key](images/1_Shft_Ansicht.jpg) <center>2. Picture 2 - With Shift key<center>
-![With Alt Gr](images/2_AltGr_Ansicht.jpg) <center>3. Picture 3 - With Alt Gr<center>
-![With Schift + Alt Gr](images/3_ShftAltGr_Ansicht.jpg) <center>4. Picture 4 - With Schift + Alt Gr<center>
+![Normal Look](images/0_Normale_Ansicht.jpg) 1. Normal Look <br>
+
+![With Shift key](images/1_Shft_Ansicht.jpg) 2. With Shift key <br>
+
+![With Alt Gr](images/2_AltGr_Ansicht.jpg) 3. With Alt Gr <br>
+
+![With Schift + Alt Gr](images/3_ShftAltGr_Ansicht.jpg) 4. With Schift + Alt Gr <br>
+
 
 - - -
+
+### How to remove
+
+- - - 
+
+### ToDo
 
 ### History
 - - -

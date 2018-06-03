@@ -7,10 +7,10 @@
 
 + [How to install](#how-to-install)
 + [How to use](#how-to-use)
-+ [Which key where setted can you see on pictures below](#which-key-where-setted-can-you-see-on-pictures-below:)
++ [Which key where setted can you see on pictures below](#which-key-where-setted-can-you-see-on-pictures-below)
 + [How to remove](#how-to-remove)
-+ [ToDo](#ToDo)
-+ [History](#History)
++ [ToDo](#todo)
++ [History](#history)
 
 ### How to install
 - - -
@@ -18,7 +18,7 @@
 ### How to use
 - - -
 
-### Which key where setted can you see on pictures below:
+### Which key where setted can you see on pictures below
 - - -
 ![Normal Look](images/0_Normale_Ansicht.jpg) 1. Normal Look <br>
 

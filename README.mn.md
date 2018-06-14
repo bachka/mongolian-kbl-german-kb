@@ -1,74 +1,78 @@
-# Mongolian custom Keyboard Layout on Windows for German Keyboard
-### This is the custom keyboard Layout of me for Mongolian Language
->_Tested on Windows 7, 10 Versions, but use it without any warranty_, 🤣😂!
->_If you have any questions, write me a message! I will see what i can do to fix this!_
+# Монгол үсгийн компъютерийн гарны тусгай тохируулга
+### Монгол хэл дээр герман хэлний товчлуур дээр хурдан бичих тохируулга
+>_Виндовсын 7 болон 10 дээр туршсан болно_, 🤣😂!
+>_Хэрвээ янзан бүрийн асуудал буюу сайжруулах талаар санаа оноо байвал хувийн мессажаар харицана уу!_
 - - -
-#### List of Contents
+Гадаад хэл дээр унших:
++ ![In English](README.md)
++ ![Auf deutsch lesen](README.de.md)
 
-+ [Where to download](#where-to-download)
-+ [How to install](#how-to-install)
-+ [How to use](#how-to-use)
-+ [Which key where setted can you see on pictures below](#which-key-where-setted-can-you-see-on-pictures-below)
-+ [How to remove or repair](#how-to-remove-or-repair)
-+ [ToDo](#todo)
-+ [History](#history)
+#### Агуулгын жагсаалт
+
++ [Хаанаас татаж авах](#хаанаас-татаж-авах)
++ [Хэрхэн суулгах талаар](#хэрхэн-суулгах-талаар)
++ [Аль товч дээр ямар үсэг тохирогдсон](#аль-товч-дээр-ямар-үсэг-тохирогдсон)
++ [Хэрхэн системээс устгах эсвэл засварлах](#хэрхэн-системээс-устгах-эсвэл-засварлах)
++ [Сайжруулалт](#сайжруулалт)
++ [Үүх түүх](#үүх-түүх)
 - - -
-### Where to download
+### Хаанаас татаж авах
 
 
-![Normal Look](images/de-20-how-to-download.jpg) 1. Click on the over here on release
+![Normal Look](images/de-20-how-to-download.jpg) 1. Дээрхи линкүүдээс  release гэсэн дээр товшино уу.
 
-![Normal Look](images/de-21-how-to-download.jpg) 2. Now you can download the zippped version of mongolian custom keyboard layout. 
-+ After the download finished just extract it and follow the instructions below. 
+![Normal Look](images/de-21-how-to-download.jpg) 2. Дараагийн нээгдсэн хуудас дээрээс улаан хүрээлсэн ZIP-Файлыг татаж авна уу. 
++ Татаж дуусаныхаа дараа задаргаад тэр задарсан хавтастаа орж дараахи заавраар суулгана уу. 
 - - -
-### How to install
+### Хэрхэн суулгах талаар
 
-![Normal Look](images/de-01-to-install-click-on-more-info.jpg) 1. Start Installer with setup.exe . Sometimes you will become such message, where you must click on "More Info" to start ... <br>
+![Normal Look](images/de-01-to-install-click-on-more-info.jpg) 1. setup.exe -г ашиглан суулгацыг эхлүүлээрэй. Зарим тохиолдолд энэ цонх онгойх бөгөөд энэ тохиолдолд дараахи "More Info" дээр дар ... <br>
 
-![Normal Look](images/de-02-to-install-click-run-anyway.jpg) 2. Now we become a button "Run anyway" then click on that ... <br>
+![Normal Look](images/de-02-to-install-click-run-anyway.jpg) 2. Дараагийн цонх дээр "Run anyway" гэсэн товч дээр дар ... <br>
 
-![Normal Look](images/de-03-Install-complete.jpg) 3. After you accepted with administrator permission the installer shows that it successful installed message ... <br>
-+ Maybe it is better if you reboot your computer or notebook. That would help windows to check that there what new installed and show in system status bar. Like on the picture below.
+![Normal Look](images/de-03-Install-complete.jpg) 3. Суулгацыг амжилттай ажиллуулахад тусгай эрхтэй ашиглагч шаардагдана. Тэр зөвшөөрлийг олгосоны дараа суулгац амжилттай болсон гэсэн мэдээлэл цонх дээр гарна ... <br>
++ Системийг шинээр унтрааж асаасан нь дээр бөгөөд энэ нөхцөлд Виндовс шинээр хэлний нэмэгдэл суусаныг мэдрэх болно.
 
-![Normal Look](images/de-11-check-after-reboot.jpg) 4. Reboot and check that it worked!
-
-- - -
-
-### Which key where setted can you see on pictures below
-
-+ Normally to switch between or in language list which you already installed use the key combination "Shift + Alt" on the left side of your keyboard.
-+ Remember in every application where you want use a different language you should switch the language every time.
-+ Maybe you should print the picture with the keyboard layout to check which keys where to find. Because the old or the standard layout of microsoft made just very poor. Maybe it was a person who never learned a foreign language and studied nothing. Yes, it is Microsoft!
-
-![Normal Look](images/0_Normale_Ansicht.jpg) 1. Normal Look <br>
-
-![With Shift key](images/1_Shft_Ansicht.jpg) 2. With Shift key <br>
-
-![With Alt Gr](images/2_AltGr_Ansicht.jpg) 3. With Alt Gr <br>
-
-![With Schift + Alt Gr](images/3_ShftAltGr_Ansicht.jpg) 4. With Schift + Alt Gr <br>
-
+![Normal Look](images/de-11-check-after-reboot.jpg) 4. Унтрааж ахин асаасаныхаа дараа системийн мэдээлэлийн хэсэгт монгол хэлний товчлол харагдаж байгаа эсэхийг шалгаарай!
 
 - - -
 
-### How to remove or repair
+### Аль товч дээр ямар үсэг тохирогдсон
+
++ "Shift + Alt" товчлуурыг зэрэг даран систем дээр суусан хэлнүүдийн хооронд солино.
++ Бичвэр оруулах бүх програм дээрээ хэлийг нэг бүрчлэн сонгоно. 
++ Дараахи зурагнуудыг хэвлэж аваад эхний ээлжинд жаахан дасгал хийсэн нь дээр! Яагаад одоо болтол Microsoft тэнэг хүнд зориулж хийсэн гэмээр товчлуурын тохиргоог бидний хэдэн монголд ашиглуулж байгааг ойхгүй л байна.
+
+![Normal Look](images/0_Normale_Ansicht.jpg) 1. Ердийн нөхцөл <br>
+
+![With Shift key](images/1_Shft_Ansicht.jpg) 2. Shift-Товчлуурыг дарахад <br>
+
+![With Alt Gr](images/2_AltGr_Ansicht.jpg) 3. Alt Gr - Товчлуурыг дарахад <br>
+
+![With Schift + Alt Gr](images/3_ShftAltGr_Ansicht.jpg) 4. Schift + Alt Gr товчлуурыг зэрэг дарахад <br>
 
 
-+ To remove the installation use the installer again. Just start setup.exe again and then you will see a windows on picture below
-![Normal Look](images/de-07-Remove-or-repair.jpg) 1. To remove or repair the installation <br>
-
-![Normal Look](images/de-10-install-complete.jpg) 2. Removed successful <br>
-
-![Normal Look](images/de-09-Interrupt-installation.jpg) 3. Or you can just cancel it <br>
 - - -
-### ToDo
 
-+ If there is issues for my installation or somebody have idea how to improve the usage of mongolian language keyboard layout then welcome.
+### Хэрхэн системээс устгах эсвэл засварлах
 
-### History
+
++ Монгол хэлний товчлуурын тохиргоог устаг буюу засварлахын тулд суулгацыг ахин ажиллуулна уу. Үүний тулд setup.exe-г ахин эхлүүл. Үүний дараа онгойсон цонх дээр устгах эсвэл засварлах эсэхийг сонгоно.
+![Normal Look](images/de-07-Remove-or-repair.jpg) 1. Устгах (Remove) эсвэл засварлах (Repair) <br>
+
+![Normal Look](images/de-10-install-complete.jpg) 2. Aмжилттай устгалаа <br>
+
+![Normal Look](images/de-09-Interrupt-installation.jpg) 3. Эсвэл түтгэлзэн зогсооё <br>
+- - -
+### Сайжруулалт
+
++ Хэрхэн сайжруулах талаар санаа оноог мэдээж би өөрөө цаг заваараа шалган боломжтой бөгөөд үр өгөөжтэй асуудал бол мэдээж шинэчлэн оруулах болно.
+
+### Үүх түүх
++ За энэ хэсгийг дараа нь орчуулж бичье ...
 + i think now we have this final relaese which i present you
 + used many different ways to use my own custom layout
 + the first version made about 18 years ago. i used at these time an russian language dll changer
 + i found original mongolian layout of microsoft very poor. it is just nothing with linguistic or language to do
 - - -
-Made with ❤ by Bachka 
+Бачка ❤-аараа бүтээв.

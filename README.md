@@ -3,6 +3,10 @@
 >_Tested on Windows 7, 10 Versions, but use it without any warranty_, 🤣😂!
 >_If you have any questions, write me a message! I will see what i can do to fix this!_
 - - -
+Languages:
++ ![Mongol](README.mn.md)Монгол хэл дээр унших
++ ![Deutsch](README.de.md)Auf deutsch lesen
+
 #### List of Contents
 
 + [Where to download](#where-to-download)

@@ -4,8 +4,8 @@
 >_If you have any questions, write me a message! I will see what i can do to fix this!_
 - - -
 Languages:
-+ ![Mongol](README.mn.md)Монгол хэл дээр унших
-+ ![Deutsch](README.de.md)Auf deutsch lesen
++ ![Read in Mongolian](README.mn.md)
++ ![Auf deutsch lesen](README.de.md)
 
 #### List of Contents
 

@@ -62,7 +62,13 @@
 ![Normal Look](images/de-09-Interrupt-installation.jpg) 3. Or you can just cancel it <br>
 
 ### ToDo
+- - - 
++ If there is issues for my installation or somebody have idea how to improve the usage of mongolian language keyboard layout then welcome.
 
 ### History
++ i think now we have this final relaese which i present you
++ used many different ways to use my own custom layout
++ the first version made about 18 years ago. i used at these time an russian language dll changer
++ i found original mongolian layout of microsoft very poor. it is just nothing with linguistic or language to do
 - - -
 Made with ❤ by Bachka 

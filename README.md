@@ -20,9 +20,9 @@ Languages:
 ### Where to download
 
 
-![Normal Look](images/de-20-how-to-download.jpg) 1. Click on the over here on release
+![Normal Look](images/de-20-how-to-download.png) 1. Click on the over here on release
 
-![Normal Look](images/de-21-how-to-download.jpg) 2. Now you can download the zippped version of mongolian custom keyboard layout. 
+![Normal Look](images/de-21-how-to-download.png) 2. Now you can download the zippped version of mongolian custom keyboard layout. 
 + After the download finished just extract it and follow the instructions below. 
 - - -
 ### How to install
@@ -44,13 +44,15 @@ Languages:
 + Remember in every application where you want use a different language you should switch the language every time.
 + Maybe you should print the picture with the keyboard layout to check which keys where to find. Because the old or the standard layout of microsoft made just very poor. Maybe it was a person who never learned a foreign language and studied nothing. Yes, it is Microsoft!
 
-![Normal Look](images/0_Normale_Ansicht.jpg) 1. Normal Look <br>
+![Normal Look](images/de-ansicht-00-normal-ansicht.jpg) 1. Normal Look <br>
 
-![With Shift key](images/1_Shft_Ansicht.jpg) 2. With Shift key <br>
+![With Shift key](images/de-ansicht-01-caps-lock.jpg) 2. With Caps Lock <br>
 
-![With Alt Gr](images/2_AltGr_Ansicht.jpg) 3. With Alt Gr <br>
+![With Shift key](images/de-ansicht-02-shift.jpg) 3. With Shift key <br>
 
-![With Schift + Alt Gr](images/3_ShftAltGr_Ansicht.jpg) 4. With Schift + Alt Gr <br>
+![With Alt Gr](images/de-ansicht-03-alt-gr.jpg) 4. With Alt Gr <br>
+
+![With Schift + Alt Gr](images/de-ansicht-04-shift-alt-gr.jpg) 5. With Schift + Alt Gr <br>
 
 
 - - -

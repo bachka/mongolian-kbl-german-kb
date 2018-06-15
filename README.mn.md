@@ -4,8 +4,8 @@
 >_Хэрвээ янзан бүрийн асуудал буюу сайжруулах талаар санаа оноо байвал хувийн мессажаар харицана уу!_
 - - -
 Гадаад хэл дээр унших:
-+ ![In English](README.md)
-+ ![Auf deutsch lesen](README.de.md)
++ [Read in English](README.md)
++ [Auf deutsch lesen](README.de.md)
 
 #### Агуулгын жагсаалт
 
@@ -43,13 +43,15 @@
 + Бичвэр оруулах бүх програм дээрээ хэлийг нэг бүрчлэн сонгоно. 
 + Дараахи зурагнуудыг хэвлэж аваад эхний ээлжинд жаахан дасгал хийсэн нь дээр! Яагаад одоо болтол Microsoft тэнэг хүнд зориулж хийсэн гэмээр товчлуурын тохиргоог бидний хэдэн монголд ашиглуулж байгааг ойхгүй л байна.
 
-![Normal Look](images/0_Normale_Ansicht.jpg) 1. Ердийн нөхцөл <br>
+![Normal Look](images/de-ansicht-00-normal-ansicht.jpg) 1. Ердийн нөхцөл <br>
 
-![With Shift key](images/1_Shft_Ansicht.jpg) 2. Shift-Товчлуурыг дарахад <br>
+![With Shift key](images/de-ansicht-02-shift.jpg) 2. Shift-Товчлуурыг дарахад <br>
 
-![With Alt Gr](images/2_AltGr_Ansicht.jpg) 3. Alt Gr - Товчлуурыг дарахад <br>
+![With Alt Gr](images/de-ansicht-03-alt-gr.jpg) 3. Alt Gr - Товчлуурыг дарахад <br>
 
-![With Schift + Alt Gr](images/3_ShftAltGr_Ansicht.jpg) 4. Schift + Alt Gr товчлуурыг зэрэг дарахад <br>
+![With Schift + Alt Gr](images/de-ansicht-04-shift-alt-gr.jpg) 4. Schift + Alt Gr товчлуурыг зэрэг дарахад <br>
+
+![With Alt Gr](images/de-ansicht-01-caps-lock.jpg) 5. Caps Lock - Товчлуурыг дарахад <br>
 
 
 - - -
